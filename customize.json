@@ -1,14 +1,21 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
+  "greeting": "Hi",
+  "name": "Linda",
+  "greetingText": "To a my favourite stranger, I have only
+the best wishes for you on your birthday.",
   "wishText": "May the js.prototypes always be with you! ;)",
   "imagePath": "img/lydia2.png",
-  "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "text1": "I want you to know that I don’t have 
+a single regret of our time together. 
+You helped shape me to be who 
+I am today and for that, I’ll always 
+be grateful to you :D",
+  "textInChatBox": "I wish you the best in life always, and your birthday is no exception. May you get everything you’ve ever wished for in life.",
   "sendButtonLabel": "Send",
-  "text2": "That's what I was going to do.",
-  "text3": "But then I stopped.",
+  "text2": "When I think about us, I try not to get sad. I think about all the good times we shared together that touched my heart. I’ll remember our memories forever and always. You made such a difference to my life and for that, you’ll forever leave a lasting impact on my heart",
+  "text3": "I’ll always be grateful to know you
+in my life, as it’s better to have loved
+and lost than never to have loved at all.",
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
@@ -17,7 +24,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "i'm hope u are happy ",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
